@@ -34,7 +34,7 @@ It combines data preprocessing, analysis, and modeling to deliver actionable out
 ---
 
 ## 📁 Project Structure
-
+```
 PROJECT-NAME/
 ├── data/
 │ ├── raw/ # Original data (not altered)
@@ -53,7 +53,7 @@ PROJECT-NAME/
 ├── main.py # Entry point script
 ├── requirements.txt # Required Python packages
 └── README.md # Project overview (this file)
-
+```
 ---
 
 ## 📦 Project Description
